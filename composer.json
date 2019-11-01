@@ -1,0 +1,10 @@
+{
+    "name": "belhard/simplemodal",
+    "type": "library",
+    "description": "A modal dialog framework for jQuery",
+    "license": "MIT",
+    "keywords": [
+	    	"javascript",
+		    "html"
+	  ]
+}
